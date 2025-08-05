@@ -65,8 +65,9 @@ flowchart TD
 - 📍 View temperature, pH, water level in real-time
 - 📈 Charts for last 24 hours
 - 🔘 Manual clean button 
-
+![WhatsApp Image 2025-08-05 at 21 02 07_fefa5887](https://github.com/user-attachments/assets/324e9205-1493-4e00-b8d2-71fa808bb431)
 ---
+
 
 🛠️ How to Run This Project
 1.Connect hardware as per circuit design  
